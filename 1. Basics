@@ -1,0 +1,38 @@
+/* Basics: 
+
+- main() (method)
+
+- public (access modifier)
+
+- static (keyword) = allows main() to be called before an object of the class has been created. 
+
+- void (keyword) = tells the compiler the main() does not return a value. 
+
+- parameter = variables specified within the set of parentheses that follow the name of the method. 
+              Ex. main () = empty parameter
+
+
+
+
+if(condition) statement
+  Ex. if(10 < 11) System.out.printIn("10 is less than 11");
+  
+  
+
+
+class Example {}
+  public static void main (String args[]) {
+    int a, b, c;
+    a = 2;
+    b = 3; 
+    
+    if (a<b) System.out.printIn("a is less than b");
+    if (a==b) System.out.printIn("you won't see this");
+    System.out.printIn();
+  }
+  
+  
+    
+
+
+
