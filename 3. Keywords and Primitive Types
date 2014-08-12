@@ -1,0 +1,14 @@
+// Java keywords cannot be used as a name for a variable, class or method.
+
+
+
+/* Java's primitive types: 
+
+- boolean
+- byte (8-bit int)
+- char
+- double (double-precision floating point)
+- float (single-precision floating point) 
+- int
+- long (long interger)
+- short (short integer)
