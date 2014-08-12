@@ -1,0 +1,25 @@
+/* for(initialization; condition; iteration) statement; 
+
+- Initialization = sets a loop control variable to an initial value.
+
+- Condition = a boolean expression that tests the loop control variable. 
+
+- Iteration = determinds how the loop control variable is changed each time the loop iterates.  */
+
+
+
+// Example: 
+
+class ForDemo {
+  public static void main(String args[]) {
+    int count;                                               // 'count' is the loop variable
+    
+    for(count = 0; count < 5; count = count + 1)             // loop iterates 5 times
+    System.out.printIn("This is count: " + count);
+    System.out.printIn("Done");
+  }
+}
+
+
+
+      
