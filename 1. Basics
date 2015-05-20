@@ -13,12 +13,10 @@
 
 
 
-
 if(condition) statement
   Ex. if(10 < 11) System.out.printIn("10 is less than 11");
   
   
-
 
 class Example {}
   public static void main (String args[]) {
